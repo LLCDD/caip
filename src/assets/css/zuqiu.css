@@ -1,0 +1,19 @@
+.zuqiu_box{margin-top: 0.88rem;background: #f5f5f5;min-height: 100%;}
+.zuqiu_qishu{padding: 0.19rem 0.3rem;background: #FFFFFF;display: flex;justify-content: space-between;}
+.zuqiu_qishu span{font-size: 0.24rem;color: #999999;}
+.zuqiu_ul {margin-bottom: 1.2rem;height:100%}
+.zuqiu_ul li{margin-top: 0.1rem; padding: 0.2rem 0.3rem;background: #FFFFFF;display: flex;justify-content: space-between;}
+.left_div{text-align: center;}
+.right_div{border: solid 0.02rem #cccccc; display: flex;justify-content: flex-start;}
+.right_div div{width: 1.7rem;height: 1.1rem;padding: 0.26rem 0;text-align: center;}
+.right_div div:nth-child(2){border-right: solid 0.02rem #cccccc;border-left: solid 0.02rem #cccccc;}
+.fense{	background-color: #f7b2b8;}
+.fense p{color: #fffefe;}
+.right_div div p:nth-child(2){color: #999999;}
+.right_div .fense p:nth-child(2){color: #fffefe;}
+.zuqiu_btn{position: fixed;bottom: 0; width: 100%;height: 1.1rem; background: #FFFFFF;padding: 0.28rem 0.1rem;display: flex;justify-content: space-between;}
+.zuqiu_btn .iocn_shanchu{width: 0.45rem;height:auto;display: block;margin-right: 0.2rem;margin-left: 0.3rem}
+.zuqiu_btn .iocn_shanchu img{width: 100%;height: 100%;}
+.zuqiu_btn .btn_xinxi p:first-child{color: #e60013;}
+.zuqiu_btn .btn_xinxi p:last-child{color: #999999;font-size: 0.2rem;margin-top: 3px;}
+.zuqiu_btn .btn_anniu{width: 1.31rem;height: 0.6rem;background-color: #e60013;border-radius: 0.3rem;font-size: 0.3rem;	color: #ffffff;}

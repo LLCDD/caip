@@ -1,0 +1,15 @@
+/*公共*/
+.zhibo_box{margin-top: 0.88rem;background: #F5F5F5;overflow: hidden;}
+.guanzhu_bisai li{margin-top: 0.1rem;}
+.count_box1{overflow: hidden;padding-top: 1.3rem;}
+.tab_qiehuan{display: flex;justify-content: space-around;position: fixed;top: 0.88rem;width: 100%;background: #FFFFFF;z-index: 3;}
+.tab_qiehuan span{color: #999999;font-size: 0.3rem;margin: 0.41rem 0 0.41rem;padding:0 0.1rem  0.07rem;}
+.tab_qiehuan .router-link-active{color: #e60013;border-bottom: 2px solid #e60013;}
+.guanzhu_bg{width: 100%;height: 2rem; background: url(../img/guanzhu01.png) no-repeat center;background-size:100% 100%;padding: 0.13rem 0.3rem;color: #FFFFFF;position: relative;}
+.shoucang{position: absolute;top: 0.1rem;right: 0.3rem;}
+.guanzhu_bg .bisai{position: absolute;left: 50%;transform: translate(-50%,0);}
+.guanzhu_pk span{width: 33.33%;text-align: center;}
+.guanzhu_pk{display: flex;justify-content: space-between;margin-top: 0.64rem;}
+.guanzhu_pk span:nth-child(1){font-size: 0.36rem;}
+.guanzhu_pk span:nth-child(2){font-size: 1rem;position: absolute;top: 0.7rem;left: 55%;transform: translate(-50%,0);}
+.guanzhu_pk span:nth-child(3){font-size: 0.36rem;}
